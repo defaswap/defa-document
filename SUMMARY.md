@@ -12,3 +12,9 @@
   * [Token Swaps](products/exchange/token-swaps.md)
   * [How to Trade](products/exchange/how-to-trade.md)
   * [Liquidity Pools](products/exchange/liquidity-pools.md)
+  * [How to Add/Remove Liquidity](products/exchange/how-to-add-remove-liquidity.md)
+
+***
+
+* [🚜 Yield Farming](yield-farming/README.md)
+  * [How to Use Farms](yield-farming/how-to-use-farms.md)

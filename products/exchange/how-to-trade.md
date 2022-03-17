@@ -1,5 +1,5 @@
 ---
-cover: ../../.gitbook/assets/image (6).png
+cover: ../../.gitbook/assets/image (6) (1).png
 coverY: 0
 ---
 
@@ -17,7 +17,7 @@ Before you can trade, you will need a Binance Smart Chain-compatible wallet. You
 
 2\. Unlock your Binance Smart Chain-compatible wallet by clicking **Unlock Wallet** (you can also **Connect** in the top right-hand corner). If you haven't yet connected your wallet to Defa platform, you can view the guide to here.
 
-![](<../../.gitbook/assets/image (2).png>)
+![](<../../.gitbook/assets/image (2) (1).png>)
 
 3\. Choose the token you want to trade from the dropdown menu in the "From" section. The default setting is BNB.
 
@@ -25,7 +25,7 @@ Whichever token you choose, you will need to make sure you have some to trade wi
 
 4\. Choose the token you want to trade to in the "To" section as above. Next, type an amount for your "To" currency by clicking inside the input box.
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (5).png>)
 
 Your "From" currency amount will be estimated automatically. You can also type your "From" amount and have the "To" amount estimate automatically if you like.
 
@@ -33,12 +33,12 @@ Your "From" currency amount will be estimated automatically. You can also type y
 
 6\. A window with more details will appear. Check the details are correct.
 
-![](<../../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (1) (1).png>)
 
 When you are ready, click the **Confirm Swap** button. Your wallet will ask you to confirm the action.
 
 7\. Done! You can click **View on BscScan** to see your transaction details on the explorer.
 
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (3) (1).png>)
 
 &#x20;

@@ -1,5 +1,5 @@
 ---
-cover: ../../.gitbook/assets/image (8).png
+cover: ../../.gitbook/assets/image (8) (1).png
 coverY: 0
 ---
 
@@ -15,7 +15,7 @@ The number of LP tokens you receive represents your portion of the Defa-BNB Liqu
 
 You can also redeem your funds at any time by removing your liquidity.
 
-![](<../../.gitbook/assets/image (4).png>)
+![](<../../.gitbook/assets/image (4) (1).png>)
 
 ## Liquidity Providers earn trading fees
 
