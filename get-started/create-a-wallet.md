@@ -92,7 +92,7 @@ MetaMask is a very popular browser-based wallet plugin that supports ERC20 (Ethe
 **Cons:**
 
 * Longer setup time than other options
-* Additional steps needed to use with BNB Smart Chain and PancakeSwap
+* Additional steps needed to use with BNB Smart Chain and DeFa
 * Extra information and settings may confuse beginners
 
 [**Download MetaMask**](https://metamask.io/download.html) (Automatically detects device)\
@@ -107,7 +107,7 @@ Millions of users choose Coinbase Wallet to earn yield with DeFi, swap more than
 **Highlights:**
 
 * Most downloaded mobile dapp wallet in the United States with 12M+ active Wallet users.
-* No additional steps needed to use with BNB Smart Chain and PancakeSwap.
+* No additional steps needed to use with BNB Smart Chain and DeFa.
 * Premier audience: Up to 89M+ Coinbase retail app users to onboard to Coinbase Wallet as they start to explore web3.
 * Easy to transfer assets from Coinbase retail app.
 * Fiat On-ramp: Users can now directly purchase crypto with fiat in all 86 countries where Coinbase operates, without leaving Wallet.
@@ -182,7 +182,7 @@ Desktop wallets are available on your home computer or laptop computer. Wallets 
 
 ### Which desktop wallet should I choose?
 
-This comparison table gives an overview of the most popular desktop wallets used with PancakeSwap.
+This comparison table gives an overview of the most popular desktop wallets used with DeFa.
 
 
 
@@ -219,7 +219,7 @@ MetaMask is a very popular browser-based wallet plugin that supports ERC20 (Ethe
 **Cons:**
 
 * Longer setup time than other options
-* Additional steps needed to use with BNB Smart Chain and PancakeSwap
+* Additional steps needed to use with BNB Smart Chain and DeFa
 * Extra information and settings may confuse beginners
 
 [**Download MetaMask**](https://metamask.io/download.html) (Automatically detects browser)\
@@ -237,7 +237,7 @@ Binance Wallet is a browser-plugin wallet that natively supports the Binance Cha
 * Backed by the Binance cryptocurrency exchange
 * Can be directly linked to a Binance or Gmail account
 * A streamlined user experience
-* Supports BNB Smart Chain by default, making using PancakeSwap easy
+* Supports BNB Smart Chain by default, making using DeFa easy
 * Supports a large number of languages
 * Hardware wallet compatible
 
@@ -259,7 +259,7 @@ Millions of users choose Coinbase Wallet to earn yield with DeFi, swap more than
 **Highlights:**
 
 * 12M+ active Wallet users.
-* No additional steps needed to use with BNB Smart Chain and PancakeSwap.
+* No additional steps needed to use with BNB Smart Chain and DeFa.
 * Premier audience: Up to 89M+ Coinbase retail app users to onboard to Coinbase Wallet as they start to explore web3.
 * Easy to transfer assets from Coinbase retail app.
 * Fiat On-ramp: Users can now directly purchase crypto with fiat in all 86 countries where Coinbase operates, without leaving Wallet.
@@ -281,7 +281,7 @@ __
 _Coinbase Wallet is a self-custody wallet providing software services subject to Coinbase Wallet_ [_Terms of Service_](https://wallet.coinbase.com/terms-of-service) _and_ [_Privacy Policy_](https://wallet.coinbase.com/privacy-policy)_. Coinbase Wallet is_ [_distinct_](https://help.coinbase.com/en/wallet/getting-started/what-s-the-difference-between-coinbase-com-and-wallet) _from Coinbase.com, and private keys for Coinbase Wallet are stored directly by the user and not by Coinbase. Fees may apply. You do not need a Coinbase.com account to use Coinbase Wallet._
 {% endtab %}
 
-{% tab title="Untitled" %}
+{% tab title="Token Pocket" %}
 ![](<../.gitbook/assets/token pocket.png>)
 
 Token Pocket is a standalone application available for both Mac OS and Win64 devices. Token Pocket allows you to manage your cryptocurrency in software independent of your browser.
