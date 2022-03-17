@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/image (20).png
+cover: ../../.gitbook/assets/image (20).png
 coverY: 0
 ---
 
@@ -24,7 +24,7 @@ Yield Farm APR calculations include both:
 
 Why? Because when you stake your LP tokens in a farm to earn Defa, you're still providing liquidity to the liquidity pool, so you earn LP rewards as well!
 
-![](<../.gitbook/assets/image (21).png>)
+![](<../../.gitbook/assets/image (21).png>)
 
 So how do we calculate those figures?
 
@@ -36,7 +36,7 @@ The **Farm Base APR** is calculated according to the farm multiplier and the tot
 
 On top of that, farmers receive **LP rewards** for providing liquidity. Here's an example of calculating **LP rewards**:
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../../.gitbook/assets/image (2).png>)
 
 In the WBNB/BUSD pair above, we see these values:
 
