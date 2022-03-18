@@ -1,6 +1,6 @@
 # Table of contents
 
-* [DeFa Document](README.md)
+* [DeFa Intro](README.md)
 * [Get Started](get-started/README.md)
   * [Create a Wallet](get-started/create-a-wallet.md)
   * [Get BEP20 Tokens](get-started/get-bep20-tokens.md)
