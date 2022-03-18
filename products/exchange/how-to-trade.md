@@ -1,9 +1,6 @@
----
-cover: ../../.gitbook/assets/image (6) (1).png
-coverY: 0
----
-
 # How to Trade
+
+![](<../../.gitbook/assets/image (6) (1).png>)
 
 Trading on Defa platform is very easy compared to most exchanges. You aren't going to be overwhelmed by charts or jargon, and calculations are all handled for you.
 

@@ -1,9 +1,6 @@
----
-cover: ../../.gitbook/assets/image (20).png
-coverY: 0
----
-
 # 🚜 Yield Farming
+
+![](<../../.gitbook/assets/image (20).png>)
 
 Yield Farms allow users to earn Defa while supporting Defa platform by staking LP Tokens.
 
@@ -43,7 +40,6 @@ In the WBNB/BUSD pair above, we see these values:
 **Liquidity:** $387.42M **Volume 24H:** $96.97M **Volume 7D:** 709.73M
 
 * Calculate yearly fees
-*
-  * Use the 24H volume to calculate the **fee share** of liquidity providers in the pool (based on the 0.17% trading fee structure): $96,970,000\*0.17/100 = **$164,849**
-  * Next, use that **fee share** to estimate the projected **yearly fees** earned by the pool (based on the current 24h volume): $164,849\*365 = **$60,169,885**
+* Use the 24H volume to calculate the **fee share** of liquidity providers in the pool (based on the 0.17% trading fee structure): $96,970,000\*0.17/100 = **$164,849**
+* Next, use that **fee share** to estimate the projected **yearly fees** earned by the pool (based on the current 24h volume): $164,849\*365 = **$60,169,885**
 * We can now use the yearly fees to calculate the **LP rewards APR:** That's **yearly fees** divided by **liquidity:** ($60,169,885/$387,420,000)\*100 = **15.53% LP reward APR**

@@ -1,9 +1,6 @@
----
-cover: ../../.gitbook/assets/image (1).png
-coverY: 0
----
-
 # How to Add/Remove Liquidity
+
+![](<../../.gitbook/assets/image (1).png>)
 
 "Liquidity" is central to how Defa platform’s Exchange works. You can add liquidity for any token pair by staking both through the Liquidity page.
 

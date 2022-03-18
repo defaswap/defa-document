@@ -1,9 +1,6 @@
----
-cover: ../../.gitbook/assets/image (8) (1).png
-coverY: 0
----
-
 # Liquidity Pools
+
+![](<../../.gitbook/assets/image (8) (1).png>)
 
 When you add your token to a Liquidity Pool you will receive Liquidity Provider (LP) tokens and share in the fees.
 

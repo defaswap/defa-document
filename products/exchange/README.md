@@ -1,9 +1,6 @@
----
-cover: ../../.gitbook/assets/image (9) (1).png
-coverY: 0
----
-
 # 🔄 Exchange
+
+![](<../../.gitbook/assets/image (9) (1).png>)
 
 Defa platform is an Automated Market Maker (AMM), and the Exchange is at the heart of Defa platform. Defa platform is the leading AMM on the Binance Smart Chain, and as statistics tell, the most popular Decentralized Exchange (DEX) ever!
 

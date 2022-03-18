@@ -1,9 +1,6 @@
----
-cover: ../../.gitbook/assets/image (5) (1).png
-coverY: 0
----
-
 # Token Swaps
+
+![](<../../.gitbook/assets/image (5) (1).png>)
 
 ****[**Token swaps**](https://defa.finance/swap) on DeFa platform are a simple way to trade one BEP-20 token for another via automated liquidity pools.
 
