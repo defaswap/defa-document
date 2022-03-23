@@ -23,10 +23,10 @@ Unlike centralized exchanges like Binance or Coinbase, DeFa doesn’t hold your 
 ## 💸 Earn
 
 {% hint style="info" %}
-Earn CAKE and other tokens for free with super high interest rates.
+Earn DEFA and other tokens for free with super high interest rates.
 {% endhint %}
 
-### Earn CAKE with Yield Farms
+### Earn DEFA with Yield Farms
 
 Stake LP tokens, earn DeFa. You can earn high APR to offset the risk.
 
